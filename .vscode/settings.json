@@ -1,0 +1,4 @@
+{
+  "jest.jestCommandLine": "npm run test --",
+  "jest.rootPath": "C:\\Users\\Stanley\\OneDrive\\Documents\\Formation\\bill-app\\Billed-app-FR-Front\\src\\__tests__"
+}
